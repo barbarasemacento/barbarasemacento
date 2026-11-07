@@ -1,1 +1,1 @@
-![Barbara Nery - Terminal Animado](./barbara-terminal.svg)
+![Barbara Nery - Terminal Animado](./barbara-terminal-ia.svg)
